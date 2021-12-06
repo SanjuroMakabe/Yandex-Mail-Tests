@@ -1,0 +1,79 @@
+1638798363200	geckodriver	INFO	Listening on 127.0.0.1:57061
+1638798366265	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57062" "-no-remote" "-profile" "C:\\Users\\Nick\\AppData\\Local\\Temp\\rust_mozprofileTB1gZq"
+1638798367479	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nick\\AppData\\Local\\Temp\\rust_mozprofileTB1gZq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57062/devtools/browser/faca0e11-906d-4d7a-88e3-a3dada2ce642
+1638798369892	Marionette	INFO	Listening on port 57068
+1638798369981	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1638798383800	Marionette	INFO	Stopped listening on port 57068
+1638799317005	geckodriver	INFO	Listening on 127.0.0.1:57797
+1638799320101	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57798" "-no-remote" "-profile" "C:\\Users\\Nick\\AppData\\Local\\Temp\\rust_mozprofileNEfrUO"
+1638799320332	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nick\\AppData\\Local\\Temp\\rust_mozprofileNEfrUO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57798/devtools/browser/05ba0a7f-03b3-4b3a-b49a-97063e5f695c
+1638799321892	Marionette	INFO	Listening on port 57804
+1638799322319	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1638799329940	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1638799331683	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1638799338658	Marionette	INFO	Stopped listening on port 57804
+1638799339124	geckodriver	INFO	Listening on 127.0.0.1:57871
+1638799342228	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57872" "-no-remote" "-profile" "C:\\Users\\Nick\\AppData\\Local\\Temp\\rust_mozprofileQqy4kj"
+1638799342652	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nick\\AppData\\Local\\Temp\\rust_mozprofileQqy4kj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57872/devtools/browser/cab62e05-4994-4bfb-8806-3c0c7099d9f6
+1638799344193	Marionette	INFO	Listening on port 57879
+1638799344276	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1638799358029	Marionette	INFO	Stopped listening on port 57879
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638799406758	geckodriver	INFO	Listening on 127.0.0.1:57985
+1638799409856	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57986" "-no-remote" "-profile" "C:\\Users\\Nick\\AppData\\Local\\Temp\\rust_mozprofileDy6H0Z"
+1638799410111	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nick\\AppData\\Local\\Temp\\rust_mozprofileDy6H0Z\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57986/devtools/browser/f4525310-6a1b-4bbb-9ae3-fae8c8b93007
+1638799411637	Marionette	INFO	Listening on port 57993
+1638799411895	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1638799425919	Marionette	INFO	Stopped listening on port 57993
+1638799426500	geckodriver	INFO	Listening on 127.0.0.1:58064
+1638799429592	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58065" "-no-remote" "-profile" "C:\\Users\\Nick\\AppData\\Local\\Temp\\rust_mozprofileCYqJ7I"
+1638799429807	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nick\\AppData\\Local\\Temp\\rust_mozprofileCYqJ7I\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58065/devtools/browser/67693d55-229c-4ebb-85b8-103362a91454
+1638799431299	Marionette	INFO	Listening on port 58071
+1638799431613	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1638799442259	Marionette	INFO	Stopped listening on port 58071
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638799442709	geckodriver	INFO	Listening on 127.0.0.1:58148
+1638799445801	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58149" "-no-remote" "-profile" "C:\\Users\\Nick\\AppData\\Local\\Temp\\rust_mozprofile1JCM9y"
+1638799446025	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nick\\AppData\\Local\\Temp\\rust_mozprofile1JCM9y\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58149/devtools/browser/1358b8aa-d681-4317-b6e0-e32947330111
+1638799447592	Marionette	INFO	Listening on port 58155
+1638799448272	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1638799459850	Marionette	INFO	Stopped listening on port 58155
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
